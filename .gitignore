@@ -2,9 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+manuf_data.csv
 # C extensions
 *.so
+.final_dataset_sensor.csv
 
 # Distribution / packaging
 .Python
